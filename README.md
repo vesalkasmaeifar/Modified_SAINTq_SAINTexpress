@@ -62,7 +62,8 @@ These binaries are **ready to run** and can be used just like the original SAINT
 ## **How to Cite This GitHub Repository**
 If you use this modified version of SAINTq/SAINTexpress, please cite this GitHub repository:
 
-**[GitHub Repository URL]**  
-DOI: **[Zenodo DOI Once Available]**
+GitHub: **[https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress]**  
+DOI: **[https://doi.org/10.5281/zenodo.14852852]**
 
-**Example Citation Format:**
+Example Citation Format: 
+Vesal Kasmaeifar (2025) “vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0”. Zenodo. doi: 10.5281/zenodo.14852852.
