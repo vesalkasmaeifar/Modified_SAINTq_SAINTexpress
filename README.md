@@ -46,8 +46,8 @@ By removing this forced separation and allowing the observed values to be used d
 - **Higher sensitivity** at the same Bayesian False Discovery Rate (BFDR) threshold.
 - Increased detection of interactors that align with **known biological interactions**.
 - Example dataset (ACTB, KRT8, LMNA, MAPRE3):
-  - **Original SAINTexpress:** Less than 3 preys per bait at **1% BFDR**.
-  - **Modified version:** Significantly more interactors detected.
+  - **Original SAINTexpress:** 0 preys per bait at **1% BFDR**.
+  - **Modified version:** Significantly more biologically meaningful interactors detected.
 
 ---
 
