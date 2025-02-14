@@ -79,7 +79,7 @@ To run SAINTexpress:
 If you use this modified version of SAINTq/SAINTexpress, please cite this GitHub repository:
 
 GitHub: **[https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress]**  
-DOI: **[https://doi.org/10.5281/zenodo.14852852]**
+DOI: **[https://doi.org/10.5281/zenodo.14873006]**
 Vesal Kasmaeifar (2025) “vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0”. Zenodo. doi: 10.5281/zenodo.14852852.
 
 ---
@@ -87,5 +87,3 @@ Vesal Kasmaeifar (2025) “vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0”
 ## **Additional Notes**
 - **This work builds on SAINTq and SAINTexpress; refer to the original license in SAINT documentation.**
 - **Precompiled binaries are available under [GitHub Releases](https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress/releases/tag/v1.0).**
-
-
