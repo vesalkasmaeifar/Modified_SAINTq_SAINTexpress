@@ -86,6 +86,6 @@ Vesal Kasmaeifar (2025) “vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0”
 
 ## **Additional Notes**
 - **This work builds on SAINTq and SAINTexpress; refer to the original license in SAINT documentation.**
-- **Precompiled binaries are available under [GitHub Releases](https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress/releases) (once uploaded).**
+- **Precompiled binaries are available under [GitHub Releases](https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress/releases/tag/v1.0).**
 
 
