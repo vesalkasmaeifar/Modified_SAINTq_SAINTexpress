@@ -80,8 +80,6 @@ If you use this modified version of SAINTq/SAINTexpress, please cite this GitHub
 
 GitHub: **[https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress]**  
 DOI: **[https://doi.org/10.5281/zenodo.14852852]**
-
-Example Citation Format: 
 Vesal Kasmaeifar (2025) “vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0”. Zenodo. doi: 10.5281/zenodo.14852852.
 ---
 
