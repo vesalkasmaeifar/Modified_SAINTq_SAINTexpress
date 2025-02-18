@@ -65,7 +65,7 @@ To run SAINTq:
 ```
 To run SAINTexpress:
 ```bash
-./SAINTexpress/bin/SAINTexpress interaction_file.dat prey_file.dat bait_file.dat
+./SAINTexpress/bin/SAINTexpress-int interaction_file.dat prey_file.dat bait_file.dat
 ```
 
 ---
