@@ -78,10 +78,9 @@ To run SAINTexpress:
 ## **Citing This Repository**
 If you use this modified version of SAINTq/SAINTexpress, please cite this GitHub repository:
 
-GitHub: **[https://github.com/vesalkasmaeifar/Modified_SAINTq_SAINTexpress]**  
-DOI: **[https://doi.org/10.5281/zenodo.14873006]**
+GitHub: **[https://github.com/vesalkasmaeifar/Modified_SAINTq_ans_SAINTexpress]**  
+DOI: **[]**
 
-Vesal Kasmaeifar. (2025). vesalkasmaeifar/Modified_SAINTq_SAINTexpress: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.14873006
 
 ---
 
