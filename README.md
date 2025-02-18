@@ -61,11 +61,11 @@ For troubleshooting, refer to [`docs/compilation.md`](docs/compilation.md).
 ## **Using the Modified SAINTq & SAINTexpress**
 To run SAINTq:
 ```bash
-./SAINTq/bin/SAINTq input_data.txt
+./SAINTq/bin/SAINTq param_file
 ```
 To run SAINTexpress:
 ```bash
-./SAINTexpress/bin/SAINTexpress input_data.txt
+./SAINTexpress/bin/SAINTexpress interaction_file.dat prey_file.dat bait_file.dat
 ```
 
 ---
