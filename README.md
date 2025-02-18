@@ -61,7 +61,7 @@ For troubleshooting, refer to [`docs/compilation.md`](docs/compilation.md).
 ## **Using the Modified SAINTq & SAINTexpress**
 To run SAINTq:
 ```bash
-./SAINTq/bin/SAINTq param_file
+./SAINTq/bin/saintq param_file
 ```
 To run SAINTexpress:
 ```bash
